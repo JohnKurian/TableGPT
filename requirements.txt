@@ -1,0 +1,6 @@
+tensorflow==1.14
+tensorflow-gpu==1.14.0
+tqdm
+regex
+nltk
+gitpython
